@@ -1,4 +1,4 @@
-![](https://i.imgur.com/wnTylts.png)
+![](https://i.imgur.com/bE94MOp.png)
 
 <!--
 **rathore793/rathore793** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
